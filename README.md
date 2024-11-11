@@ -1,2 +1,3 @@
-G3 Robotics team 1648 of Midtown High School!
-Check out [our repos](https://github.com/midtownrobotics)!
+# G3 Robotics team 1648 of Midtown High School!
+
+## Check out [our repos](https://github.com/orgs/midtownrobotics/repositories)!
